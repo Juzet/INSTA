@@ -1,0 +1,10 @@
+body {
+	background-color: gray;
+	font-size: 160px;
+	text-align: center;
+	padding-top: 15%;
+}	
+a {
+	text-decoration: none;
+	color: black;
+}
